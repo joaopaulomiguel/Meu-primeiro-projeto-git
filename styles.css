@@ -1,0 +1,92 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Poppins", sans-serif;
+}
+
+.header {
+    margin-left: 42px;
+    margin-top: 47px;
+}
+
+.link-header {
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 100%;
+    color: #17233D;
+    cursor: pointer;
+    margin-right: 32px;
+    letter-spacing: 0.88px;
+}
+
+img {
+    margin: 163px 0 0 123px;
+    display: inline-block;
+
+
+}
+
+.button-header {
+    background: #6FBF44;
+    color: #FFFFFF;
+    border-radius: 6px;
+    border: 1px solid #4CB538;
+    cursor: pointer;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 100%;
+    letter-spacing: 1px;
+    width: 124px;
+    height: 51px;
+    font-family: Poppins;
+}
+
+
+h1 {
+    color: #161A49;
+    font-size: 62px;
+    font-weight: 700;
+    line-height: 82px;
+    letter-spacing: 0.6px;
+    width: 582px;
+    height: 164px;
+
+}
+
+p {
+    color: #4B505A;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 33px;
+    letter-spacing: 0.5px;
+    width: 493px;
+    margin-top: 47px;
+    margin-bottom: 55px;
+
+}
+
+.button-main {
+    color: #6FBF44;
+    border: none;
+    cursor: pointer;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 100%;
+    letter-spacing: 1px;
+    background: transparent;
+}
+
+div {
+    display: inline-block;
+    margin-left: 84px;
+
+}
+
+ @media screen and (max-width: 440px) {
+    header{
+        display: none;
+    }
+ 
+}
+    
